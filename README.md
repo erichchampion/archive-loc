@@ -28,4 +28,6 @@ Because the Library of Congress website limits the bandwidth you can use, it wil
 
 The script will download each collection item to its own directory. Each directory will be named after the item id in its URL. In each directory, you'll find the jpg or tif images that were linked, along with the item data, saved in a txt file. 
 
+If the script encounters a problem, you can run it again in the same directory. It will need to build the list of items again, but it will skip individual items that have already been downloaded and move on to the next. 
+
 Please feel free to contribute improvements. 

@@ -124,7 +124,6 @@ async function processCollection(collectionId) {
   for (const url of itemLinks) {
     console.log(`Processing item: ${url}`);
     await downloadItemPage(url, collectionFolder);
-    await delay(2000);
   }
 }
 
