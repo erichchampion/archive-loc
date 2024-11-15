@@ -1,6 +1,8 @@
-This repo uses puppeteer to archive collections from the Library of Congress. 
+This repo uses puppeteer to locally archive collections from the Library of Congress. 
 
-To set things up, you should have node and npm or yarn installed on your system. Run one of the following commands to pull down the necessary libraries. 
+To set things up, you should have node and npm or yarn installed on your system. If you need to install them, Homebrew (https://brew.sh) is a great tool that will help. 
+
+After you have the basic environment set up and have pulled down the code in this repo, run one of the following commands to pull down other dependencies. 
 
 yarn init
 -or-
