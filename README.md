@@ -1,4 +1,7 @@
-This repo uses puppeteer to archive collections from the Library of Congress. 
+This repo uses puppeteer to archive collections of images from the Library of Congress. 
+
+Created in response to this TikTok from Annelise Baer (@annelisethearchaeologist):
+https://www.tiktok.com/@annelisethearchaeologist/video/7436133360868822318
 
 To set things up, you should have node and npm or yarn installed on your system. Run one of the following commands to pull down the necessary libraries. 
 
