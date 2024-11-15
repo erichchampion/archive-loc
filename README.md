@@ -1,5 +1,8 @@
 This repo uses puppeteer to locally archive collections from the Library of Congress. 
 
+Created in response to this TikTok from Annelise Baer (@annelisethearchaeologist):
+https://www.tiktok.com/@annelisethearchaeologist/video/7436133360868822318
+
 To set things up, you should have node and npm or yarn installed on your system. If you need to install them, Homebrew (https://brew.sh) is a great tool that will help. 
 
 After you have the basic environment set up and have pulled down the code in this repo, run one of the following commands to pull down other dependencies. 
